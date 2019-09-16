@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/09 20:34:19.000.417,=D:\DelphiProjects\Unit1.pas</Transaction>
+    <Transaction>2019/09/09 20:35:09.000.009,D:\DelphiProjects\Unit1.pas=C:\Users\FCV\Desktop\CalcDelphi\uPrincipal.pas</Transaction>
+    <Transaction>2019/09/09 20:35:09.000.009,D:\DelphiProjects\Unit1.dfm=C:\Users\FCV\Desktop\CalcDelphi\uPrincipal.dfm</Transaction>
+    <Transaction>2019/09/09 20:35:13.000.758,D:\DelphiProjects\Project1.dproj=C:\Users\FCV\Desktop\CalcDelphi\CalcDelphi.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
